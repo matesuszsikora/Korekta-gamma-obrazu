@@ -1,0 +1,7 @@
+C:\Users\mateu\OneDrive\Pulpit\JaProj\bin\x64\Debug\JaProj.exe.config
+C:\Users\mateu\OneDrive\Pulpit\JaProj\bin\x64\Debug\JaProj.exe
+C:\Users\mateu\OneDrive\Pulpit\JaProj\bin\x64\Debug\JaProj.pdb
+C:\Users\mateu\OneDrive\Pulpit\JaProj\obj\x64\Debug\JaProj.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Pulpit\JaProj\obj\x64\Debug\JaProj.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Pulpit\JaProj\obj\x64\Debug\JaProj.exe
+C:\Users\mateu\OneDrive\Pulpit\JaProj\obj\x64\Debug\JaProj.pdb
