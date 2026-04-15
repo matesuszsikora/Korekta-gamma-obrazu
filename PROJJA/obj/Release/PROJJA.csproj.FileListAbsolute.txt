@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\bin\Release\PROJJA.exe.config
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\bin\Release\PROJJA.exe
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\bin\Release\PROJJA.pdb
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\obj\Release\PROJJA.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\obj\Release\PROJJA.Form1.resources
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\obj\Release\PROJJA.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\obj\Release\PROJJA.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\obj\Release\PROJJA.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\obj\Release\PROJJA.exe
+C:\Users\mateu\OneDrive\Pulpit\PROJJA\obj\Release\PROJJA.pdb

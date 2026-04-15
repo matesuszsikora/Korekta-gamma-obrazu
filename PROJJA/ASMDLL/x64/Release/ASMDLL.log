@@ -1,0 +1,4 @@
+﻿  Assembling ASMDLL.asm...
+     Trwa tworzenie biblioteki C:\Users\mateu\OneDrive\Pulpit\PROJJA\x64\Release\ASMDLL.lib i obiektu C:\Users\mateu\OneDrive\Pulpit\PROJJA\x64\Release\ASMDLL.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  ASMDLL.vcxproj -> C:\Users\mateu\OneDrive\Pulpit\PROJJA\x64\Release\ASMDLL.dll
